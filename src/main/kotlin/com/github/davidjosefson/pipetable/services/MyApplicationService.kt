@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.davidjosefson.pipetable.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.davidjosefson.pipetable.MyBundle
 
 class MyApplicationService {
 
